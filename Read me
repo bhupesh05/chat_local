@@ -1,0 +1,10 @@
+hey help me in code 
+
+to run or test it 
+
+you need to clone it first
+
+git clone https://github.com/bhupesh05/chat_local.git
+
+the you need to run 'DateServer' before you run 'DateClient'
+in two different console
